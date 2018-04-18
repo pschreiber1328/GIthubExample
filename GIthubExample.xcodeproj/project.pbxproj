@@ -12,6 +12,7 @@
 		EA4EF24A2087D77F00E21066 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA4EF2482087D77F00E21066 /* Main.storyboard */; };
 		EA4EF24C2087D77F00E21066 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA4EF24B2087D77F00E21066 /* Assets.xcassets */; };
 		EA4EF24F2087D77F00E21066 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA4EF24D2087D77F00E21066 /* LaunchScreen.storyboard */; };
+		EACEF8902087DB9C0042B220 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EACEF88F2087DB9C0042B220 /* NewViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EA4EF24B2087D77F00E21066 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA4EF24E2087D77F00E21066 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA4EF2502087D77F00E21066 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EACEF88F2087DB9C0042B220 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				EA4EF2442087D77F00E21066 /* AppDelegate.swift */,
 				EA4EF2462087D77F00E21066 /* ViewController.swift */,
 				EA4EF2482087D77F00E21066 /* Main.storyboard */,
+				EACEF88F2087DB9C0042B220 /* NewViewController.swift */,
 				EA4EF24B2087D77F00E21066 /* Assets.xcassets */,
 				EA4EF24D2087D77F00E21066 /* LaunchScreen.storyboard */,
 				EA4EF2502087D77F00E21066 /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EACEF8902087DB9C0042B220 /* NewViewController.swift in Sources */,
 				EA4EF2472087D77F00E21066 /* ViewController.swift in Sources */,
 				EA4EF2452087D77F00E21066 /* AppDelegate.swift in Sources */,
 			);
